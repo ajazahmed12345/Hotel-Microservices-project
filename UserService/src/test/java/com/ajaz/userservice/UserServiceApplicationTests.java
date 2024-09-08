@@ -29,6 +29,7 @@ class UserServiceApplicationTests {
                 .build();
 
         ResponseEntity<Rating> response = ratingService.createRating(rating);
+
         log.info("Create rating test response from Rating service: {}", response.getBody());
 
     }
