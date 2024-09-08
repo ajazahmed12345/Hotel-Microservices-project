@@ -1,0 +1,4 @@
+com/ajaz/microservices/ratingservice/services/RatingServiceImplTest.class
+com/ajaz/microservices/ratingservice/models/RatingTest.class
+com/ajaz/microservices/ratingservice/controllers/RatingControllerTest.class
+com/ajaz/microservices/ratingservice/RatingServiceApplicationTests.class

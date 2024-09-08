@@ -1,0 +1,8 @@
+com/ajaz/microservices/ratingservice/controllers/RatingController.class
+com/ajaz/microservices/ratingservice/models/Rating.class
+com/ajaz/microservices/ratingservice/services/RatingServiceImpl.class
+com/ajaz/microservices/ratingservice/exceptions/ControllerAdvices.class
+com/ajaz/microservices/ratingservice/repositories/RatingRepository.class
+com/ajaz/microservices/ratingservice/RatingServiceApplication.class
+com/ajaz/microservices/ratingservice/services/RatingService.class
+com/ajaz/microservices/ratingservice/exceptions/RatingNotFoundException.class
